@@ -21,16 +21,19 @@ technology and political news.
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
 <img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
+<img width="40" height="40" alt="word" src="./icons/word-original.svg"/>
+<img width="40" height="40" alt="powepoint" src="./icons/powerpoint-original.svg"/>
+<img width="40" height="40" alt="excel" src="./icons/excel-original.svg"/>
 
 ---
 
 <table width="100%">
 <tr>
 <td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MedAmineGabsi&show_icons=true&count_private=true alt="NeirouzJbira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MedAmineGabsi&show_icons=true&count_private=true alt="MedAmineGabsiStats" /></p>
 </td>
 <td width="40%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineGabsi&layout=compact" alt="NeirouzJbira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineGabsi&layout=compact" alt="MedAmineGabsiMostUsedLanguages" /></p>
 </td>
 </tr>
 </table>
