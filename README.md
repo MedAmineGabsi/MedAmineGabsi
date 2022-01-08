@@ -11,14 +11,14 @@ technology and political news.
 🙌 Teamwork<br/>
 🤝 Be respectful and helpful
 
-## Connect with me:##
+## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/AmineGabsi11" target="_blank"><img align="center" src="./icons/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/AmineGabsi11" target="_blank"><img align="center" src="./icons/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/17873858/amine-gabsi" target="_blank"><img align="center" src="./icons/stackoverflow-original.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://www.facebook.com/maminou46/" target="_blank"><img align="center" src="./icons/facebook-original.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amine_gabsi11" target="_blank"><img align="center" src="./icons/instagram-original.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/451070829699137546" target="_blank"><img align="center" src="./icons/discord-original.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://www.facebook.com/maminou46/" target="_blank"><img align="center" src="./icons/facebook-original.svg" alt="facebook" height="40" width="40" /></a>
+<a href="https://www.instagram.com/amine_gabsi11" target="_blank"><img align="center" src="./icons/instagram-original.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/451070829699137546" target="_blank"><img align="center" src="./icons/discord-original.svg" alt="Discord" height="40" width="40" /></a>
 </p>
 
 ## Languages and Tools :
