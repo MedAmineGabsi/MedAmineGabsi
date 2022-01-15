@@ -34,6 +34,7 @@ technology and political news.
 <img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
+<img width="40" height="40" alt="reactJS" src="./icons/node-original.svg"/>
 <img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
 <img width="40" height="40" alt="word" src="./icons/word-original.svg"/>
 <img width="40" height="40" alt="powepoint" src="./icons/powerpoint-original.svg"/>
