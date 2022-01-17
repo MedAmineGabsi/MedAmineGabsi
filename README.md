@@ -25,7 +25,7 @@ technology and political news.
 <a href="https://discordapp.com/users/451070829699137546" target="_blank"><img align="center" src="./icons/discord-original.svg" alt="Discord" height="40" width="40" /></a>
 </p>
 
-## Languages and Tools :
+## Languages and tools that I master :
 
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
