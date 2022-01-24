@@ -39,6 +39,7 @@ technology and political news.
 <img width="40" height="40" alt="word" src="./icons/word-original.svg"/>
 <img width="40" height="40" alt="powepoint" src="./icons/powerpoint-original.svg"/>
 <img width="40" height="40" alt="excel" src="./icons/excel-original.svg"/>
+<img width="40" height="40" alt="Adobe PhotoShop2022" src="./icons/Ps-original.svg"/>
 
 ---
 
