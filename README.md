@@ -1,4 +1,4 @@
-# Hey I'm Amine Gabsi 👋
+# Hey I'm Mohamed Amine Gabsi 👋
 
 I’m a junior developper who is actually learning fullstack development
 I'm passionated by programming and coding. I love creating new projects and always be update about
