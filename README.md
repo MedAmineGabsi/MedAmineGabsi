@@ -46,10 +46,7 @@ technology and political news.
 
 <table width="100%">
 <tr>
-<td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MedAmineGabsi&show_icons=true&count_private=true alt="MedAmineGabsiStats" /></p>
-</td>
-<td width="40%">
+<td width="100%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineGabsi&layout=compact" alt="MedAmineGabsiMostUsedLanguages" /></p>
 </td>
 </tr>
