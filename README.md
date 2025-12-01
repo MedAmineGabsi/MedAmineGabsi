@@ -15,13 +15,8 @@ tech news.
 
 🎒 <a href="https://github.com/MedAmineGabsi/List-Of-My-Project">List Of My Projects</a>
 
-## Connect with me:
 
-<p align="left">
-<a href="https://www.instagram.com/amine_gabsi11" target="_blank"><img align="center" src="./icons/instagram-original.svg" alt="instagram" height="40" width="40" /></a>
-</p>
-
-## Languages and tools that I master :
+## Languages and tools:
 
 <p align="left">
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
@@ -37,13 +32,3 @@ tech news.
 <img width="40" height="40" alt="powepoint" src="./icons/powerpoint-original.svg"/>
 <img width="40" height="40" alt="excel" src="./icons/excel-original.svg"/>
 <img width="40" height="40" alt="Adobe PhotoShop2022" src="./icons/Ps-original.svg"/>
-
----
-
-<table width="100%">
-<tr>
-<td width="100%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineGabsi&layout=compact" alt="MedAmineGabsiMostUsedLanguages" /></p>
-</td>
-</tr>
-</table>
