@@ -43,13 +43,13 @@ tech news.
 ### Libraries/Framework:
 <p align="left">
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="40" height="40" alt="expressJS" src="./icons/express-js.svg"/>
+<img width="40" height="40" alt="expressJS" src="./icons/express.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
 <img width="40" height="40" alt="reactJS" src="./icons/react-original.svg"/>
 <img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
 <img width="40" height="40" alt="tensorflow" src="./icons/tensorflow.svg"/>
 <img width="40" height="40" alt="numpy" src="./icons/numpy.svg"/>
 <img width="40" height="40" alt="matplotlib" src="./icons/matplotlib.svg"/>
-<img width="40" height="40" alt="Spring Boot" src="./icons/springboot.svg"/>
-<img width="40" height="40" alt="Java FXML" src="./icons/scenebuilder.svg"/>
+<img width="40" height="40" alt="Spring Boot" src="./icons/spring-boot.svg"/>
+<img width="40" height="40" alt="Java FXML" src="./icons/scenebuilder.png"/>
 </p>
