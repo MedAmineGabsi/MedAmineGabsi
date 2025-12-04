@@ -4,7 +4,7 @@ I’m a Second Year Computer Engineering Student at McGill University
 I'm passionated by programming and coding. I love creating new projects and always be update about
 tech news.
 
-## My Values
+## 🧠 My Values
 
 ⚡ Be active<br/>
 💡 Curiosity & learning<br/>
@@ -13,10 +13,14 @@ tech news.
 
 ## 📂 My projects
 
-🎒 <a href="https://github.com/MedAmineGabsi/List-Of-My-Project">List Of My Projects</a>
+<a href="https://github.com/MedAmineGabsi/List-Of-My-Project">List Of My Projects</a>
 
+## 📑 My Resumes
 
-## Technical Skills:
+<a href="./RESUME_MAG_EN.pdf">Resume English Version</a>
+<a href="./CV_MAG_FR.pdf">CV Version Française</a>
+
+## 💻 Technical Skills
 
 ### Languages:
 <p align="left">
