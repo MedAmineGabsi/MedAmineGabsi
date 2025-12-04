@@ -17,8 +17,10 @@ tech news.
 
 ## 📑 My Resumes
 
-<a href="./RESUME_MAG_EN.pdf">Resume English Version</a><br/>
-<a href="./CV_MAG_FR.pdf">CV Version Française</a>
+<ul>
+<li><a href="./RESUME_MAG_EN.pdf">Resume English Version</a><br/></li>
+<li><a href="./CV_MAG_FR.pdf">CV Version Française</a></li>
+</ul>
 
 ## 💻 Technical Skills
 
